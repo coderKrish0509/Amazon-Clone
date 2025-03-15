@@ -13,7 +13,7 @@ This is a front-end clone of the Amazon homepage, built using only **HTML** and 
 
 ## 📸 Screenshots
 
-![Amazon Clone Screenshot](https://github.com/coderKrish0509/Amazon-Clone/issues/1)
+![Amazon Clone Homepage ](https://github.com/coderKrish0509/Amazon-Clone/issues/1)
 
 
 ## 📂 Features
